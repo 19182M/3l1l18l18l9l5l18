@@ -2,13 +2,15 @@
     {"title":"CBSE Results","details":"http://www.cbseresults.nic.in/"},
     {"title":"Staff Selection Commission(SSC) Results","details":"https://ssc.nic.in/portal/results"},
     {"title":"RRB Railway Guwahati","details":"http://www.rrbguwahati.gov.in"},
+    {"title":"STATE LEVEL POLICE RECRUITMENT BOARD, ASSAM [Admit Download Portal] ","details":"https://admit.abubconstablerec.in/"},
+    
+    {"title":"UNION PUBLIC SERVICE COMMISSION, UPSC","details":"https://www.upsc.gov.in/"},
     {"title":"SEBA Results Download All Assam High Schools","details":"https://sebaonline.org/?link=ZG93bmxvYWRfcHVibGlj"},
     {"title":"Assam Higher Secondary Education Council (AHSEC)","details":"http://ahsec.nic.in/"},
-    {"title":"Assam Higher Secondary Education Council (AHSEC) Results","details":"http://www.ahsec.nic.in/Results/"},
     {"title":"Assam University Results","details":"http://tdc.ausexamresults.in/"},
     {"title":"Tezpur University Results","details":"www.tezu.ernet.in/result/termexam.html"},
     {"title":"Guwahati University Results","details":"http://www.gauhati.ac.in/results/"},
-    {"title":"Bodoland University Results","details":"http://14.139.213.10/result"},
+    {"title":"Bodoland University Results","details":"bodolanduniversity.ac.in/NewsPage.aspx?CALLFROM=result"},
     {"title":"Dibrugarh University Results","details":"https://dibru.ac.in/index.php/results"},
     {"title":"Krishna Kanta Handiqui State Open University(KKHSOU), Guwahati ","details":"http://www.kkhsou.in/4mobile/latest_news.php?id=1"},
 {"title":"Indian Institute of Technology(IIT),  Guwahati ","details":"http://www.iitg.ac.in/"},
@@ -19,7 +21,7 @@
 {"title":"Srimanta Sankaradeva University of Health Sciences, Guwahati ","details":"http://ssuhs.in/node.php?u=nwsd"},
 {"title":"Jorhat Medical College ","details":"http://jorhatmedicalcollege.in/jmch/index.php/student-corner/results"},
 {"title":"Kaziranga University ","details":"http://kazirangauniversity.in/"},
-{"title":"Assam Science and Technology University, Guwahati ","details":"https://astu.ac.in/astu/?page_id=116"},
+{"title":"Assam Science and Technology University, Guwahati ","details":"https://www.astu.ac.in/"},
 {"title":"Assam Engineering College, Guwahati ","details":"http://www.aec.ac.in/notifications"},
 {"title":"Assam Down Town University, Guwahati ","details":"https://adtu.in/"}
 ]
